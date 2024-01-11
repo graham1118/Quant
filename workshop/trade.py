@@ -5,7 +5,7 @@ import time
 import requests
 
 
-metamask = '0xF396142EBf3edd1099fD20aa31575D66A2d6DccA'
+metamask = ''
 web3 = Web3(Web3.HTTPProvider('https://speedy-nodes-nyc.moralis.io/f67bfd109a69698191dc9597/polygon/mainnet')) #/mumbai for testnet
 
 
